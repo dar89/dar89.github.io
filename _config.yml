@@ -48,9 +48,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: CECAN
+  avatar: #bio-photo.jpg
+  email: #you@email.com
   disqus-shortname:
   twitter: #username
   facebook: #username
